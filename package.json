@@ -1,6 +1,6 @@
 {
-  "repository": "#",
-  "license": "UNLICENSED",
+  "repository": "https://github.com/m5x5/threejs-webpack-starter",
+  "author": "m5x5",
   "scripts": {
     "build": "webpack --config ./bundler/webpack.prod.js",
     "dev": "webpack serve --config ./bundler/webpack.dev.js"
